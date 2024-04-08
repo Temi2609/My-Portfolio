@@ -19,6 +19,10 @@
     .section-container {
         display: block;
   }
+  
+  #projects{
+    margin-top: 10vh;
+}
 
     .arrow {
         display: none;
@@ -54,6 +58,9 @@
         height: 83vh;
         margin-bottom: 0;
     }
+    #projects{
+      margin-bottom: 10vh;
+  }
 
     article {
         font-size: 1rem;
@@ -62,6 +69,9 @@
     footer nav {
         height: fit-content;
         margin-bottom: 2rem;
+    }
+    .img-1{
+      width: 330px;
     }
 
     .about-containers,
